@@ -1,0 +1,1 @@
+//A 401 response means the request has no valid authentication, either because the token is missing, invalid, or expired. A successful profile request shows the token is valid and the user is recognized. After logout, the token is revoked, so further requests return 401 and the session is securely ended.
